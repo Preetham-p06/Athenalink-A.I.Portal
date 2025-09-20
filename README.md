@@ -1,49 +1,50 @@
 # AthenaLink Portal
 
-**Status:** Work in Progress
+**Status:** Work in Progress  
 
-AthenaLink Portal is a React-based web application designed to simulate a futuristic, Star Wars-inspired research database interface. The project demonstrates how a sleek user interface can integrate advanced search functionality, dynamic animations, and AI-driven data retrieval in the cloud. While still under development, it provides a strong foundation for future AWS integration and AI-powered content analysis.
+AthenaLink Portal is a React-based web application designed to simulate a futuristic research database interface. The project showcases how a sleek front-end can combine immersive visuals, advanced search functionality, and smooth animations. While still in development, the foundation is set for future AWS integration and AI-powered data retrieval.
 
 ---
 
 ## **Project Objective**
 
-The primary goal of AthenaLink Portal is to create an interactive, visually immersive front-end for exploring research articles. Users can input search filters such as:
+The goal of AthenaLink Portal is to build an interactive, visually immersive platform for exploring research articles. Users can filter searches by:
 
 - Research Topic  
 - Publication Year  
 - Author Name  
 - Institution  
 
-Upon initiating a search, the portal triggers a hyperspace-style animation reminiscent of lightspeed in Star Wars, signaling the retrieval of data. Currently, the application uses placeholder results to demonstrate the UI flow, with plans to integrate AWS S3 for storing research metadata and AI services for intelligent search.
+When a search is initiated, the portal plays a hyperspace-style animation before displaying results. Currently, the results are placeholders to demonstrate the interface flow, with future plans to connect to an AWS backend for real research metadata.
 
 ---
 
 ## **Key Features**
 
-- **Dynamic Starfield Background:** Creates an immersive space-themed interface.  
-- **Hyperspace Animation:** Engages users with lightspeed-style transitions during searches.  
-- **Responsive Search Interface:** Accepts multiple filters and displays results in a clean, readable format.  
-- **Placeholder Results:** Demonstrates front-end functionality before backend integration.  
-- **React & Framer Motion:** Uses modern web development libraries for a smooth, interactive experience.  
+- **Dynamic Starfield Background** – Creates a space-inspired visual environment.  
+- **Hyperspace Animation** – Lightspeed transition effect during searches.  
+- **Responsive Search UI** – Accepts multiple filters and displays structured results.  
+- **Placeholder Results** – Showcases UI functionality before backend integration.  
+- **Built with React & Framer Motion** – Ensures smooth transitions and modern interaction.  
 
 ---
 
 ## **Technology Stack**
 
-- **React.js** – Front-end framework for building dynamic user interfaces.  
-- **Framer Motion** – Animation library used to create the hyperspace lightspeed effect.  
-- **AWS S3 (Planned)** – Cloud storage for research metadata and results.  
-- **AWS AI Services (Planned)** – For intelligent analysis and retrieval of relevant content.  
-- **CSS / Tailwind (optional)** – For styling and responsive design.  
+- **React.js** – Front-end framework for dynamic UI development.  
+- **Framer Motion** – Animation library powering hyperspace effects.  
+- **AWS S3 (Planned)** – For storing and retrieving research metadata.  
+- **AWS AI Services (Planned)** – For semantic search and intelligent filtering.  
+- **Tailwind CSS (Optional)** – For responsive styling and design consistency.  
 
 ---
 
 ## **Future Development**
 
-- Connect the search functionality to an AWS backend that stores research article metadata in S3.  
-- Use AI to analyze and extract relevant information from stored articles.  
-- Implement email notifications to deliver search results directly to users.  
-- Enhance visuals with particle effects and advanced CSS animations to improve the immersive experience.  
+- Connect search functionality to AWS for real research metadata.  
+- Integrate AI for content analysis and smarter search.  
+- Add user accounts and personalized search histories.  
+- Implement email notifications with search results.  
+- Enhance immersion with particle effects and advanced CSS animations.  
 
 ---
